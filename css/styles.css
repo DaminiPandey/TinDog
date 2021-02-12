@@ -1,0 +1,156 @@
+#title{
+  background-color: #ff4c68;
+
+}
+h1{
+
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+body{
+  font-family: 'Cormorant Garamond', serif;
+}
+.navbar-brand{
+  font-family: "ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+.title-image{
+  width: 60%;
+position: absolute;
+right:30%;
+}
+.title-image{
+  transform:rotate(25deg);
+}
+#features{
+  padding: 7% 15%;
+  text-align: center;
+ background-color: #fff;
+ position: relative;
+
+
+
+
+}
+h2{
+  font-family: 'Montserrat-bold',sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: 'Cormorant',sans-serif;
+  font-weight: 1.5rem;
+  text-align: center;
+}
+.feat{
+  color: #8f8f8f;
+  text-align: center;
+  padding: 5%;
+  font-family: 'ubuntu',sans-serif;
+}
+.feat-image{
+
+  color: #ef8172;
+  margin-bottom: 1rem;
+
+}
+.feat-image:hover{
+  color: #ff4c68;
+
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-image{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+.press-logo{
+  width: 15%;
+  padding: 1% 1%;
+}
+#pricing{
+
+  padding: 100px;
+  text-align: center;
+}
+.pricing-col{
+  padding: 3% 2%;
+}
+@media screen and (max-width:1028px){
+  .title-image{
+    position: static;
+    transform: rotate(0deg);
+    margin: auto;
+  }
+
+  #title{
+    text-align: center;
+  }
+}
+#cta{
+  background-color: #ff4c6b;
+
+  text-align:center;
+
+
+}
+.cta-h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.75rem;
+    line-height: 1.5;
+
+   padding-top: 4%;
+   color: #fff;
+}
+.socials{
+  text-align: center;
+
+}
+.foot{
+  text-align: center;
+  margin-bottom: 0;
+
+}
+#footer{
+  padding: 7% 15% 0;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+.log{
+  margin: 0 0.5% 0.5% 2%;
+  text-align: center;
+}
+.card-body{
+  font-family: 'ubuntu',sans-serif;
+}
